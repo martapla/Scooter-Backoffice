@@ -6,7 +6,7 @@ The project includes a **paginated list view** and a **full CRUD detail view**, 
 ## 🔗 Live Demo
 
 Check out the project live on Vercel:  
-[Motorbikes Renting Backoffice](https://scooter-backoffice.vercel.app/)
+[Scooter Sharing Backoffice](https://scooter-backoffice.vercel.app/)
 
 ---
 
