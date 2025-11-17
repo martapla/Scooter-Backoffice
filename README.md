@@ -3,6 +3,11 @@
 A **backoffice web application** built with **Vue.js** that allows administrators to manage a fleet of electric scooters.  
 The project includes a **paginated list view** and a **full CRUD detail view**, using a local **JSON file as mock API data**.
 
+## 🔗 Live Demo
+
+Check out the project live on Vercel:  
+[Motorbikes Renting Backoffice](https://scooter-backoffice.vercel.app/)
+
 ---
 
 ##  Features
