@@ -104,7 +104,7 @@ export default {
     })
 
     const formatBattery = (val) => {
-      if (typeof val === 'number') return Math.round(val * 100) + '%'
+      if (typeof val === 'number') return Math.round(val * 1) + '%'
       return val
     }
 
